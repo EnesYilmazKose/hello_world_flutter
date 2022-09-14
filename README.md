@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a demo for a Flutter application.
 
-This projects default feature is showing and hiding 'Hello' or string which developer wants to implement upon pushing a button
+This projects default feature is showing and hiding 'Hello' or string which developer wants to implement upon pushing the button
 
 A few resources to get you started if this is your first Flutter project:
 
